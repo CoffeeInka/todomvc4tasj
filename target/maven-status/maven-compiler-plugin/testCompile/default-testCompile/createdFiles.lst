@@ -1,0 +1,8 @@
+com/herokuapp/categories/Smoke.class
+com/herokuapp/features/TodosOperationsAtAllFilter.class
+com/herokuapp/pages/ToDoMVCPage.class
+com/herokuapp/pages/ToDoMVCPage$TaskStatus.class
+com/herokuapp/categories/Buggy.class
+com/herokuapp/features/TodosE2ETest.class
+com/herokuapp/base/BaseTest.class
+com/herokuapp/pages/ToDoMVCPage$Task.class
