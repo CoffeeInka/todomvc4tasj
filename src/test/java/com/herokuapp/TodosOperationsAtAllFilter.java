@@ -1,4 +1,4 @@
-package com.herokuapp.features;
+package com.herokuapp;
 
 import com.herokuapp.base.BaseTest;
 import com.herokuapp.categories.Buggy;

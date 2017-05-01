@@ -13,7 +13,6 @@
         <allure.version>1.4.23.HOTFIX1</allure.version>
         <aspectj.version>1.8.9</aspectj.version>
         <compiler.version>1.8</compiler.version>
-        <suite>*Test</suite>
         <driver.browser>firefox</driver.browser>
         <test.includeCategories></test.includeCategories>
         <test.excludeCategories></test.excludeCategories>
@@ -66,7 +65,6 @@
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                     </argLine>
-                    <test>com.herokuapp.features.${suite}</test>
                     <properties>
                         <property>
                             <name>listener</name>
