@@ -139,3 +139,6 @@
 
 
 </project>
+
+<!--To run tests with profile:-->
+        <!--mvn clean test -Ddriver.browser=chrome -Psmoke-->

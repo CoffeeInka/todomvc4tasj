@@ -5,3 +5,4 @@ package com.herokuapp.categories;
  */
 public interface Buggy {
 }
+
