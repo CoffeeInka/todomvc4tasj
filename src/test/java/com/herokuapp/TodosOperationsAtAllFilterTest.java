@@ -14,7 +14,7 @@ import static com.herokuapp.pages.ToDoMVCPage.TaskStatus.COMPLETED;
  */
 
 
-public class TodosOperationsAtAllFilter extends BaseTest {
+public class TodosOperationsAtAllFilterTest extends BaseTest {
 
     ToDoMVCPage page = new ToDoMVCPage();
 
